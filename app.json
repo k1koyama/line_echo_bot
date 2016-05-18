@@ -1,7 +1,7 @@
 {
   "name": "kk-line-bot",
   "description": "LINE Bot API test program",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "repository": "https://github.com/k1koyama/line_echo_bot.git",
   "keywords": ["node", "line"],
   "image": "heroku/nodejs"
 }
